@@ -1,6 +1,6 @@
 # PoliteBot (Вежливый Бот)
 [<img src="https://github.com/sxmurxy2005/PoliteBot/assets/46312126/c43deb4d-72b2-4646-bfa0-f41aa3cab83f">](https://t.me/MostPoliteBot)
-#### :heavy_exclamation_mark:Команда: Шахматов Павел, Кулак Иван (Б9123-01.03.02сп)
+#### :heavy_exclamation_mark:Команда: Шахматов Павел, Кулак Иван и Марченко Александр (Б9123-01.03.02сп)
 #### :heavy_exclamation_mark:Тема: Как общаться в интернете безопасно и вежливо? (35)
 
 #### У бота есть три кнопки: :pencil:
